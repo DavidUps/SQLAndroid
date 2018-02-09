@@ -12,4 +12,5 @@ Proyecto SQLito el tuyo guapo para clase.
 - Mostrar datos usando Spinner(ComboBox)
 - Mostrar datos cargandolos en una ListView
 
-_Espero que os sirva con mucho amor DavidUps :hearts:_
+_Espero que os sirva.
+ Con mucho amor DavidUps :hearts:_
