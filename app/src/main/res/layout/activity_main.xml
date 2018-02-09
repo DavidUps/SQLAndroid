@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@color/rosa"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    android:paddingTop="40dp"
+    android:paddingBottom="20dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.david.sqlandroid.MainActivity">
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mydb"
+        android:textSize="30dp"
+        android:paddingBottom="20dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/angry_unicorn"
+        android:paddingBottom="20dp"/>
+    <Button
+        android:theme="@style/buton1"
+        android:id="@+id/btnInsert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/insert"
+        android:textAllCaps="false"
+        android:onClick="onClick"/>
+
+    <Button
+        android:theme="@style/buton2"
+        android:id="@+id/btnConsult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/consult"
+        android:textAllCaps="false"
+        android:onClick="onClick"/>
+
+    <Button
+        android:theme="@style/buton3"
+        android:id="@+id/btnConsultSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/spinnerConsult"
+        android:textAllCaps="false"
+        android:onClick="onClick"/>
+
+    <Button
+        android:theme="@style/buton4"
+        android:id="@+id/btnConsultList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/listviewConsult"
+        android:textAllCaps="false"
+        android:onClick="onClick"/>
+
+</LinearLayout>

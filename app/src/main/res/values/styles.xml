@@ -1,0 +1,46 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/rosa</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="buton1" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/azul</item>
+    </style>
+
+    <style name="buton2" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/morado</item>
+    </style>
+
+    <style name="buton3" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/verde</item>
+    </style>
+
+    <style name="buton4" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/naranja</item>
+    </style>
+
+    <style name="editText" parent="Widget.Design.TextInputLayout">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/azul</item>
+        <item name="android:backgroundTint">@color/azul</item>
+        <item name="android:textColorHint">@color/azul</item>
+        <item name="android:cacheColorHint">@color/azul</item>
+
+    </style>
+
+    <style name="editText2" parent="Widget.Design.TextInputLayout">
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/morado</item>
+        <item name="android:backgroundTint">@color/morado</item>
+        <item name="android:textColorHint">@color/morado</item>
+        <item name="android:cacheColorHint">@color/morado</item>
+
+    </style>
+
+
+
+</resources>

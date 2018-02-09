@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SQLAndroid</string>
+    <string name="insert">Insert</string>
+    <string name="consult">Consult</string>
+    <string name="spinnerConsult">Spinner Consult</string>
+    <string name="listviewConsult">List View Consult</string>
+    <string name="mydb">My Data Base</string>
+    <string name="myInsert">Insert Data</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="insertUser">Insert User</string>
+    <string name="consultUser">Consult User</string>
+    <string name="idUser">User ID</string>
+    <string name="search">Search</string>
+    <string name="selectOption">Select One Option</string>
+</resources>
