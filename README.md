@@ -3,7 +3,7 @@ Proyecto SQLito el tuyo guapo para clase.
 
 ## Descargas Necesarias
 
--[SQLite Database Administrator](#download.orbmu2k.de/download.php?id=19)
+-[SQLiteDatabaseAdministrator](#download.orbmu2k.de/download.php?id=19)
 
 ## Que vamos a aprender
 
